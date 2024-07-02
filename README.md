@@ -1,5 +1,5 @@
 # Pythonscan
-Este projeto tem por finalidade realizar scaner de maneira rápida e prática, utilizando ferramentas de nmap e nc.
+Este projeto tem por finalidade realizar scaner de port scan de maneira rápida e prática, utilizando ferramentas de nmap e nc.
 
 *Pre-requisitos 
 apt-get install python3 nmap nc -y
